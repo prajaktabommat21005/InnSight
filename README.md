@@ -39,7 +39,7 @@ This repository contains a Google Colab notebook for hotel booking analytics and
 ## Project Structure
 
 * `README.md`: This file.
-* `codebase/`: (Optional) Python modules.
+* `codebase/`: Python modules.
     * `data_processing.py`: Data cleaning code.
     * `analytics.py`: Analytics code.
     * `llm_integration.py`: RAG code.
