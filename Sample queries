@@ -1,0 +1,13 @@
+Sample Test Queries and Expected Answers
+
+1. Which month has the most bookings?
+   Ans:- October
+
+2. Which country has the least number of bookings?
+   Ans:- NOR
+
+3. Show me the total revenue for July 2017.
+   Ans:- $247,020
+
+4. Which location has the highest booking cancellations?
+   Ans:- City Hotel
